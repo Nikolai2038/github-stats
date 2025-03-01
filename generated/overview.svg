@@ -132,7 +132,7 @@
                                     </svg>
                                     All-time contributions
                                 </td>
-                                <td class="number">5,186</td>
+                                <td class="number">5,208</td>
                             </tr>
                             <tr>
                                 <td>
@@ -143,7 +143,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="number">16,413,109</td>
+                                <td class="number">16,413,974</td>
                             </tr>
                             <tr><td height="24"> </td></tr>
 <!--                            <tr>-->
@@ -155,7 +155,7 @@
 <!--                                    </svg>-->
 <!--                                    Repository views (past two weeks)-->
 <!--                                </td>-->
-<!--                                <td class="number">95</td>-->
+<!--                                <td class="number">92</td>-->
 <!--                            </tr>-->
                         </tbody>
                     </table>
