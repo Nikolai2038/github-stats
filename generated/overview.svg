@@ -123,7 +123,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td class="number">155</td>
+                                <td class="number">156</td>
                             </tr>
                             <tr>
                                 <td>
@@ -134,7 +134,7 @@
                                     </svg>
                                     All-time contributions
                                 </td>
-                                <td class="number">5,919</td>
+                                <td class="number">5,940</td>
                             </tr>
                             <tr>
                                 <td>
@@ -145,7 +145,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="number">19,157,244</td>
+                                <td class="number">19,161,016</td>
                             </tr>
                            <tr>
                                <td>
@@ -156,7 +156,7 @@
                                    </svg>
                                    Repository views (past two weeks)
                                </td>
-                               <td class="number">148</td>
+                               <td class="number">132</td>
                            </tr>
                         </tbody>
                     </table>
