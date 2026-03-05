@@ -101,7 +101,7 @@
                                    </svg>
                                    Stars
                                </td>
-                               <td class="number">23</td>
+                               <td class="number">24</td>
                            </tr>
 <!--                            <tr>-->
 <!--                                <td>-->
@@ -145,7 +145,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="number">8,760,372</td>
+                                <td class="number">8,761,265</td>
                             </tr>
                            <tr>
                                <td>
@@ -156,7 +156,7 @@
                                    </svg>
                                    Repository views (past two weeks)
                                </td>
-                               <td class="number">121</td>
+                               <td class="number">123</td>
                            </tr>
                         </tbody>
                     </table>
