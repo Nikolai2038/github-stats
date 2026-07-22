@@ -101,7 +101,7 @@
                                    </svg>
                                    Stars
                                </td>
-                               <td class="number">30</td>
+                               <td class="number">28</td>
                            </tr>
 <!--                            <tr>-->
 <!--                                <td>-->
@@ -112,7 +112,7 @@
 <!--                                    </svg>-->
 <!--                                    Forks-->
 <!--                                </td>-->
-<!--                                <td class="number">6</td>-->
+<!--                                <td class="number">5</td>-->
 <!--                            </tr>-->
                             <tr>
                                 <td>
@@ -123,7 +123,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td class="number">81</td>
+                                <td class="number">79</td>
                             </tr>
                             <tr>
                                 <td>
@@ -134,7 +134,7 @@
                                     </svg>
                                     All-time contributions
                                 </td>
-                                <td class="number">2,213</td>
+                                <td class="number">2,028</td>
                             </tr>
                             <tr>
                                 <td>
@@ -145,7 +145,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="number">8,761,351</td>
+                                <td class="number">8,743,366</td>
                             </tr>
                            <tr>
                                <td>
@@ -156,7 +156,7 @@
                                    </svg>
                                    Repository views (past two weeks)
                                </td>
-                               <td class="number">73</td>
+                               <td class="number">71</td>
                            </tr>
                         </tbody>
                     </table>
